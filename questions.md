@@ -1,6 +1,6 @@
 # Git-Essential training question set
 
-#### what is the write command to create a local git repo
+#### what is the right command to create a local git repo
 * [x] git init 
 * git clone
 * git add
