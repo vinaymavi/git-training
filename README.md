@@ -3,6 +3,9 @@
 ### Presentation 
 https://slides.com/vinaymavi/git-essentials/ 
 
+### Quiz 
+http://bit.ly/vm-giteq 
+
 ### Topic to cover
 - What/Why version control
 
@@ -36,5 +39,8 @@ https://slides.com/vinaymavi/git-essentials/
 - https://medium.com/experience-technology/git-essentials-89923bf9c9c7
 ## Contributors
 * @vinaymavi
+
+## Feedbacks
+### ![Feedbacks](./images/git-es-feedback.png)
 
 
